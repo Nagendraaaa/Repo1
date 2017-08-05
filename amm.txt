@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C60E-ADCC
+
+ Directory of C:\Users\AM\Desktop\AM\MyFolder
+
+08/05/2017  11:12 AM    <DIR>          .
+08/05/2017  11:12 AM    <DIR>          ..
+08/05/2017  11:05 AM    <DIR>          am.txt
+08/05/2017  11:08 AM    <DIR>          am1.txt
+08/05/2017  11:16 AM                 0 amm.txt
+08/05/2017  09:57 AM                 0 index.html
+08/05/2017  09:56 AM                16 test1.txt
+               3 File(s)             16 bytes
+               4 Dir(s)  43,988,832,256 bytes free
